@@ -13,6 +13,7 @@
 
     <modules>
         <module>UnitedLib</module>
+        <module>UnitedCore</module>
         <module>UnitedChat</module>
         <module>UnitedProtection</module>
         <module>UnitedStorage</module>
